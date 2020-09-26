@@ -13,6 +13,8 @@ import (
 // CSRF token length in bytes.
 const tokenLength = 32
 
+// FOO
+
 // Context/session keys & prefixes
 const (
 	tokenKey     string = "gorilla.csrf.Token"
